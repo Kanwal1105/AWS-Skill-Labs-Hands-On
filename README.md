@@ -12,4 +12,4 @@ Lab Detail:
 * Can You Create a Custom AMI Based on a New EC2 Instance?
 * Can You Deploy an End-to-End Solution in AWS? [Expert]
 * Can You Implement a Multi-Layer Security Model? [Advanced]
-
+* Secure Amazon API Gateway REST Methods by Using an Amazon Cognito User Pool [Advanced]
