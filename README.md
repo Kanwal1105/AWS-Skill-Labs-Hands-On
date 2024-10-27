@@ -13,3 +13,4 @@ Lab Detail:
 * Can You Deploy an End-to-End Solution in AWS? [Expert]
 * Can You Implement a Multi-Layer Security Model? [Advanced]
 * Secure Amazon API Gateway REST Methods by Using an Amazon Cognito User Pool [Advanced]
+* Add a PUT Method to an Amazon API Gateway [Advanced]
